@@ -1,5 +1,10 @@
-# Vue 3 + Vite
+# hello-vue-developer
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Overview
+This application is a simple Vue project set up with Vite. It serves as a starting point for developers looking to build applications using Vue.js
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## User-Stories
+The user stories for this application can be found in [docs/user-stories.md](docs/user-stories.md)
+
+## Class Diagram
+The class diagram for this application can be found in [docs/class-diagram.puml](docs/class-diagram.puml)
