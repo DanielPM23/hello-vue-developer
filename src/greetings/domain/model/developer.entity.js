@@ -1,7 +1,7 @@
 /**
  * Represents a developer with a first name and last name.
  */
-export class developer {
+export class Developer {
     /**
      * @type {string}
      * @private
